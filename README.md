@@ -30,12 +30,14 @@
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 💬 Have a look at my [Portfolio](https://aman1722.github.io/)
+<!-- - 💬 Have a look at my [Portfolio](https://aman1722.github.io/) -->
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohan_krishna142/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venigalla-mohan-krishna/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MOHANKR51336981) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mohankrishna13012001/) [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aman1722.github.io/)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohan_krishna142/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venigalla-mohan-krishna/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MOHANKR51336981) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mohankrishna13012001/) 
+
+ <!-- [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aman1722.github.io/) -->
 
 <h2 align="left">⚡Tech Stack</h2>
 <table align="center">
@@ -247,7 +249,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohankrish1" alt="aman kashyap" /></a> </p>
 <div align="center" style="display: flex; gap:50px">
 <!-- https://github-readme-stats.vercel.app/api?&hide=stars,issues&theme=radical&include_all_commits=true&cache_seconds=1800&custom_title=Your%20GitHub%20Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=mohankrish1&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&show_icons=true" style="width: 40%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mohankrish1&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&show_icons=true" style="width: 40%" /> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohankrish1&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
 
