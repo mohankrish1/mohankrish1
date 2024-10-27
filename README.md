@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
--    Checkout my **[Resume](https://drive.google.com/file/d/19vcd3TZcsH198WyYeyy3lvKFP2zD9W8x/view?usp=drive_link)**
+-    Checkout my **[Resume](https://drive.google.com/file/d/1f0eyS-ZcyqlCjpnvq5lVEyuuZ9-zx4m0/view?usp=sharing)**
 
 - 🌱 I’m currently learning **NODE stack**
 
